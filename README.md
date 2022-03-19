@@ -1,2 +1,3 @@
 # FitFirmEcology
-This is the repository I use for the project with Matteo Marsili begun in novermber 2015.
+
+Project with Matteo Marsili on Evolutionary Economics of US firms. We study financial time-series from Compustat database and employ statistical physics clustering techniques to investigate US macroeconomic evolution.
